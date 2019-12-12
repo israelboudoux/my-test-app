@@ -1,0 +1,5 @@
+CODE; PRICING RULE; DESCRIPTION; PARAMS
+2_for_1; BuyXGetYPricingRule; Buy 1 get 2; 1, 2
+4_for_2; BuyXGetYPricingRule; Buy 2 get 4; 2, 4
+get_1_in_each_item_when_qty_gte_3; DynamicDiscountPricingRule; Apply 1Euro discount over each item when quantity is greater than or equal 3; 3, 1.00
+get_50_in_each_item_when_qty_gte_2; DynamicDiscountPricingRule; Apply 50Euro discount over each item when quantity is greater than or equal 2; 2, 50.00

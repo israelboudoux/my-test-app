@@ -1,0 +1,5 @@
+PRODUCT CODE; PRICING RULE CODE
+TICKET; 2_for_1
+HOODIE; get_1_in_each_item_when_qty_gte_3
+BALL; 4_for_2
+IPHONE11; get_50_in_each_item_when_qty_gte_2

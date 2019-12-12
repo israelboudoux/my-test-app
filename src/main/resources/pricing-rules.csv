@@ -1,0 +1,3 @@
+CODE; PRICING RULE; DESCRIPTION; PARAMS
+2_for_1; BuyXGetYPricingRule; Buy 1 get 2; 1, 2
+get_1_in_each_item_when_qty_gte_3; DynamicDiscountPricingRule; Apply 1? discount over each item when quantity is greater than or equal 3; 3, 1.00
